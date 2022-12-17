@@ -1,0 +1,10 @@
+2022-08-30 09:25:02.678 [main] INFO  Main - Application is currently running in mode: DEV mode.
+2022-08-30 09:25:02.678 [main] ERROR Main - Fake Error !
+2022-08-30 10:26:23.070 [main] INFO  Main - Application is currently running in mode: DEV mode.
+2022-08-30 10:26:23.070 [main] ERROR Main - Fake Error !
+2022-08-30 10:26:23.086 [main] WARN  Main - class Main
+2022-08-30 11:13:33.462 [main] INFO  Main - Application is currently running in mode: DEV mode.
+2022-08-30 11:13:33.462 [main] ERROR Main - Fake Error !
+2022-08-30 11:13:33.478 [main] WARN  Main - class Main
+2022-08-30 11:27:10.144 [main] INFO  Main - Initialized employee: Alice
+2022-08-30 11:27:10.144 [main] INFO  Main - Initialized employee: Jarda

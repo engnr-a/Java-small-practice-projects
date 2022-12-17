@@ -1,0 +1,29 @@
+
+Y
+java:S2259"BA "NullPointerException" could be thrown; "conn" is nullable here.(Ë¹‡ê
+]
+java:S2259?"BA "NullPointerException" could be thrown; "conn" is nullable here.(û‰Û¢øÿÿÿÿ
+X
+java:S2259X"BA "NullPointerException" could be thrown; "conn" is nullable here.(Ÿ¨©¼
+\
+java:S2259m"AA "NullPointerException" could be thrown; "con" is nullable here.(¸£º¦ıÿÿÿÿ
+X
+java:S2259&"BA "NullPointerException" could be thrown; "conn" is nullable here.(ª×¹ô
+j
+java:S2095?"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û‰Û¢øÿÿÿÿ
+e
+java:S2095X"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ÿ¨©¼
+j
+java:S2095m"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸£º¦ıÿÿÿÿ
+f
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ë¹‡ê
+e
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª×¹ô
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÁÇæÅ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ë“¨#
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ

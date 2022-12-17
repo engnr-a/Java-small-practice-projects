@@ -1,0 +1,18 @@
+[
+ {
+  "children": null,
+  "sex": 77,
+  "name": "Peter",
+  "salary": 90000,
+  "married": false,
+  "age": 39
+ },
+ {
+  "children": 2,
+  "sex": 70,
+  "name": "Peppa",
+  "salary": 180000,
+  "married": true,
+  "age": 43
+ }
+]

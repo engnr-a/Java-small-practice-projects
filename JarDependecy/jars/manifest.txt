@@ -1,0 +1,10 @@
+Main-Class: Main
+Specification-Version: 9.0
+Specification-Vendor: Shola
+Implementation-Title: TopApp
+Implementation-Version: buildx
+Implementation-Vendor: Shola
+Class-Path: lib\log4j-api-2.18.0.jar lib\log4j-core-2.18.0.jar
+
+
+

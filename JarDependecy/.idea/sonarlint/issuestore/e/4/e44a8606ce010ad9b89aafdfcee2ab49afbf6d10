@@ -1,0 +1,15 @@
+
+R
+java:S2629"7Use the built-in formatting to construct this argument.(Î‹‹£ùÿÿÿÿ
+y
+java:S2629#"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(šˆÃ³8ÙÒÍñ®0
+9
+java:S3010"#Remove this assignment of "logger".(ÍÖøÛ
+K
+java:S2209"5Change this instance-reference to a static reference.(ÍÖøÛ
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Î‹‹£ùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¬ó˜°ıÿÿÿÿ
+^
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(šˆÃ³8éÒÍñ®0
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¬ó˜°ıÿÿÿÿ

@@ -1,0 +1,36 @@
+
+x
+java:S1192l"]Define a constant instead of duplicating this literal "Returning response message: " 3 times.(¤Â¹üÿÿÿÿ
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¦Éë
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£½»”ùÿÿÿÿ
+W
+java:S2259&"BA "NullPointerException" could be thrown; "myDB" is nullable here.(ìÉ¹m
+]
+java:S2259<"BA "NullPointerException" could be thrown; "myDB" is nullable here.(¯é×ûÿÿÿÿ
+]
+java:S2259Y"BA "NullPointerException" could be thrown; "myDB" is nullable here.(ûôëşüÿÿÿÿ
+W
+java:S2259v"BA "NullPointerException" could be thrown; "myDB" is nullable here.(­„ä_
+^
+java:S2259"BA "NullPointerException" could be thrown; "myDB" is nullable here.(ßÊèìùÿÿÿÿ
+j
+java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¯é×ûÿÿÿÿ
+d
+java:S2095v"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­„ä_
+j
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ûôëşüÿÿÿÿ
+d
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ìÉ¹m
+k
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ßÊèìùÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æ¼ı’şÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºõñ°
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ±‚Ş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾ˆµé
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¾ˆµé
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(¾ˆµé
+A
+java:S1168P"+Return an empty collection instead of null.(¥¹ï
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(¤Â¹üÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¤Â¹üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¤Â¹üÿÿÿÿ

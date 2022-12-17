@@ -1,0 +1,4 @@
+com/applicationdao/BookDAO.class
+com/applicationentities/Book.class
+com/jaxrswebservice/BookService.class
+com/jaxrswebservice/HelloWorldService.class

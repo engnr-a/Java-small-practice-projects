@@ -1,0 +1,10 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö›óüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö›óüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö›óüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö›óüÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯ªÃúúÿÿÿÿ
+l	java:S116"RRename this field "book_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øûÍ„øÿÿÿÿ
+o	java:S116"URename this field "book_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ê“äûÿÿÿÿ
+k	java:S116"VRename this field "book_author" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷òÃ
+o	java:S116"URename this field "book_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¸›èùÿÿÿÿ

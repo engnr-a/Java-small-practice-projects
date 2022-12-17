@@ -1,0 +1,23 @@
+
+  [
+    {
+
+      "id" : 1,
+      "first_name" : "Elon",
+      "last_name" : "Musk",
+      "gender" :"male",
+      "active" : true,
+      "emails" : [
+                  {"work":"1@gmail.com",
+                  "personal":"2@hotmail.com"}
+                  ]
+    },
+
+    {
+      "id" : 3,
+      "first_name" : "Isaac",
+      "last_name" : "Newton",
+      "gender" : "male",
+      "active" : false
+    }
+  ]

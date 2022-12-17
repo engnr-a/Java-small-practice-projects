@@ -1,0 +1,4 @@
+2022-08-30 21:55:01.476 [main] INFO  org.example.App - App is running in: Dev mode
+2022-08-30 21:55:01.480 [main] WARN  org.example.App - class org.example.App
+2022-08-30 22:26:36.362 [main] INFO  org.example.App - App is running in: Dev mode
+2022-08-30 22:26:36.368 [main] WARN  org.example.App - class org.example.App

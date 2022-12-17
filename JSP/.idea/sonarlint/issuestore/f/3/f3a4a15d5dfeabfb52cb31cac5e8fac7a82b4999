@@ -1,0 +1,9 @@
+
+jWeb:DoctypePresenceCheck
+":Insert a <!DOCTYPE> declaration to before this <html> tag.(χΓϋÿÿÿÿ8¥κα²0
+a	Web:S5254
+"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(χΓϋÿÿÿÿ8¥κα²0
+J	Web:S1827")Remove this deprecated "align" attribute.(ϊΕΒÒωÿÿÿÿ8¥κα²0
+NWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(μ°Δ8¥κα²0
+SWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(κ¶σόÿÿÿÿ8¥κα²0
+MWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(ί‘‘)8¥κα²0

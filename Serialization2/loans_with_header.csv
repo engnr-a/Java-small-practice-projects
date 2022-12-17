@@ -1,0 +1,4 @@
+ID,Loan Status,LoanAmount,Term,Home,CreditBalance
+353537, FullPaid, ShortTerm, 716, 4545633, Home Mortgage, 42748254,
+98373, FullPaid, ShortTerm, 342, 36473, Rent, 25344,
+383633, Charged off,Long Term 342, 632, CarLoan, 1234,
